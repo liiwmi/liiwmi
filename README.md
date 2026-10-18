@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Minimalist Lucario Banner Placeholder -->
-<img src="https://media.tenor.com/Zf9c3z9F_E8AAAAC/ash-lucario.gif" alt="Lucario Minimal Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
+<img src="lucario.gif" alt="Lucario Minimal Banner" width="100%" height="250" style="object-fit: cover; border-radius: 8px;" />
 
 ## Hello, I'm Tepi! 
 
